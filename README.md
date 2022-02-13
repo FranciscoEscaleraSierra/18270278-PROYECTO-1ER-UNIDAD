@@ -1,0 +1,2 @@
+# 18270278-PROYECTO-1ER-UNIDAD
+Entregar un PDF con evidencias de que se cumple con el proyecto de la primer unidad.   -   Al menos una captura de pantalla en la que se muestre:  El login La página de error si la contraseña esta mal El código fuente con que implemento la autenticación La página del dashboard del Administrador El código fuente con que implemento las gráficas  La página de productos del cliente El código fuente con que implemento "mostrar los productos" La página de total del cliente El código fuente con que implemento "sacar el total a pagar"
