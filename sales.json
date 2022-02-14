@@ -1,0 +1,17 @@
+orders
+abrir el archivo sales.json
+cargar el contenido en una variable (gets) como arreglo (json decode)
+agregar un elemento al arreglo anterior
+remplazar el contenido del archivo (puts) con ese arreglo (json encode)
+
+dashboard
+abrir el archivo sales.json
+cargar el contenido en una variable (gets) como arreglo (json decode)
+
+
+checar que esta loged
+checar que este isset los productod de la sesion
+iterrar con un foreach los productos de la sesion
+y operar para sacar el total
+
+presentarla al total
